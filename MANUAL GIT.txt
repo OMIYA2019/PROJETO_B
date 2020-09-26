@@ -13,3 +13,7 @@ PARA USAR O GIT
 6º GIT ADD*
 
 7º GIT COMMIT -m "criando o primeiro projeto"
+
+
+
+01:08:06 - 24/09/2020 - video
